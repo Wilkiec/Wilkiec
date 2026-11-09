@@ -6,8 +6,8 @@ I use mathematical modeling and software to build research workflows, backtests,
 
 ## Experience
 
-- **Quantitative Research Analyst Intern, Quant Fund** — BYU Silver Fund · Fall 2026–Present  
-  First-semester introductory research and backtesting.
+- **Quantitative Research Analyst Intern, Backtester Team** — [BYU Silver Fund Quantitative Fund](https://silverfund.byu.edu/about) · Fall 2026–Present  
+  BYU Silver Fund is a student-run investment group with a dedicated Quantitative Fund. I reviewed existing signals with the backtester team for potential incorporation under current portfolio and trading constraints. I am now developing signals suited to benchmark-aware, long-only strategies.
 
 ## Selected projects
 
